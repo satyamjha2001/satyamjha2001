@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](https://github.com/satyamjha2001/satyamjha2001/blob/8038e022758103432712638984fde203ff59c292/banner.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Kumar Jha</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="image.jpg">
