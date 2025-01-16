@@ -57,4 +57,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamjha2001&show_icons=true&locale=en" alt="satyamjha2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjha2001&" alt="satyamjha2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjha2001&show_icons=true&locale=en" alt="satyamjha2001" /></p>
